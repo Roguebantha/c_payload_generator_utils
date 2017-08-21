@@ -1,3 +1,9 @@
+/* As writer of this code, I hereby put this code in the public domain.
+ * Feel free to use, edit, release, and republish as the user deems.
+ * Credit is appreciated but is by no means required
+ * Roguebantha
+ */
+
 #include<stdio.h>
 #include<string.h>
 #include<sys/socket.h>
